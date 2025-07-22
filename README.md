@@ -1,3 +1,4 @@
+<img width="1464" height="837" alt="mcp" src="https://github.com/user-attachments/assets/fbf073f8-4191-46be-a0e9-12fd3f2eba28" />
 🚀 AI Agent for News-Based Company Data Analysis using Model Context Protocol (MCP), GPT-4o & AntV 📊🧠
 I just built an AI-powered agent that:
 ✅ Scrapes and processes news articles to extract insights about companies
